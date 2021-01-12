@@ -1,0 +1,190 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing: border-box;
+}
+.tex{
+	width: 160px;
+}
+.wrapper{
+	min-height: 100%;
+	overflow: hidden;
+}
+.container{
+	margin: 0 auto;
+	max-width: 1170px;
+}
+.header{
+	padding: 33px 0px;
+	background-color: #fff;
+}
+.site{
+	width: 145px;
+    height: 24px;
+    color: #637f83;
+    font-family: "Source Sans Pro - Black";
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 26px;
+}
+.ipsum__row{
+	text-align: center;
+}
+.bir{
+    color: #ffffff;
+    font-family: "PT Sans";
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 52px;
+    text-decoration: underline;
+    letter-spacing: 3.2px;
+    padding-top: 179px;
+}
+.eki{
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 3.2px;
+    padding-top: 34px;
+}
+.ipsum{
+	background: url(/images/wallpaperwide.com.png) 0 0 / 100% 100% no-repeat;
+	height: 520px;
+}
+.between__row{
+	text-align: center;
+	padding-top: 40px;
+	margin-bottom: 30px;
+}
+.five{
+	color: #637f83;
+	font-family: "Myriad Pro";
+	font-weight: 400;
+	/* Text style for "Lorem ipsu" */
+	font-size: 34px;
+}
+.six{
+	color: #637f83;
+	font-family: "Myriad Pro";
+	font-size: 24px;
+	font-weight: 400;
+}
+.can{
+	max-width: 1090;
+	height: 375px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding-left: 80px;
+	
+}
+.tel{
+	background-color: #f6f6f6;
+}
+.tel__row{
+	padding-bottom: 30px;
+}
+.tele{
+	width: 192px;
+	text-align: center;
+	padding: 93px 0;
+	margin-right: 95px;
+}
+.seven{
+	padding-top: 36px;
+	color: #637f83;
+	font-family: "Source Sans Pro";
+	font-size: 22px;
+	font-weight: 700;
+}
+.eight{
+	padding-top: 24px;
+	color: #959494;
+	font-family: "Source Sans Pro";
+	font-size: 14px;
+	font-weight: 400;
+}
+.near__row{
+	text-align: center;
+	padding-top: 70px;
+}
+.nine{
+	color: #637f83;
+	/* Text style for "Cras ornar" */
+	font-family: "Source Sans Pro";
+	font-size: 34px;
+	font-weight: 700;
+	/* Text style for "Donec odio" */
+}
+.ten{
+	color: #637f83;
+	font-family: "Source Sans Pro";
+	font-size: 24px;
+	font-weight: 300;
+	height: 58px;
+}
+.imag{
+	text-align: center;
+}
+.bottom{
+	text-align: center;
+	padding-top: 40px;
+}
+.bottomsi{
+	text-align: center;
+	padding-top: 40px;
+}
+.foot{
+	background-color: #637f83;
+	padding: 42px 0 50px;
+	margin-top: 59px;
+	text-align: center;
+
+}
+
+
+.bot{
+	display: inline-block;
+	border: 0px solid #fff;
+	background-color: #e4551d;
+	padding: 10px 20px;
+	border-radius: 5px;
+}
+.botsi{
+	display: inline-block;
+	border: 0px solid #fff;
+	background-color: #637f83;
+	padding: 10px 20px;
+	border-radius: 5px;
+}
+.bott{
+	color: #ffffff;
+	font-family: "Source Sans Pro";
+	font-size: 18px;
+	font-weight: 700;
+	/* Text style for "V, iew Por" */
+	letter-spacing: 0.36px;
+	text-decoration: none;
+}
+.bottsi{
+	color: #ffffff;
+	font-family: "Source Sans Pro";
+	font-size: 18px;
+	font-weight: 700;
+	/* Text style for "V, iew Por" */
+	letter-spacing: 0.36px;
+	text-decoration: none;
+}
+.linn{
+	height: 1px;
+	background-color:#d9d9d9;
+	max-width: 1000px;
+	margin: 0px auto 20px;
+}
